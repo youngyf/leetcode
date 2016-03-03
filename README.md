@@ -13,7 +13,7 @@ Language: **C++ / Python**
 ###Problem
 
 | \# | Problem | Language | Note | 
-| -- | ------- | -------- | ---- | 
-| 312 | 312. Burst Balloons | C++ | Coming soon |
+|----|---------|----------|------| 
+| 312 | [312. Burst Balloons](https://github.com/youngyf/leetcode/blob/master/solution/312.%20Burst%20Balloons/Burst_Balloons.cpp) | C++ | Coming soon |
 
 

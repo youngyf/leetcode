@@ -1,6 +1,3 @@
-#include <iostream>
-#include <algorithm>
-#include <vector>
 class Solution {
 public:
     int maxCoins(vector<int>& nums) {
