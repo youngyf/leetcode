@@ -14,6 +14,6 @@ Language: **C++ / Python**
 
 | \# | Problem | Language | Note | 
 |----|---------|----------|------| 
-| 312 | [312. Burst Balloons](https://github.com/youngyf/leetcode/blob/master/solution/312.%20Burst%20Balloons/Burst_Balloons.cpp) | C++ | Coming soon |
+| 312 | [312. Burst Balloons](https://github.com/youngyf/leetcode/blob/master/solution/312.%20Burst%20Balloons/Burst_Balloons.cpp) | C++ | [note](http://youngyf.github.io/2016/03/03/leetcode-312-Burst-Balloons/) |
 
 
