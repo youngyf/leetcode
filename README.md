@@ -16,6 +16,8 @@ Language: **C++ / Python**
 |----|---------|----------|------|  
 | 62 | [62. Unique Paths ](https://github.com/youngyf/leetcode/blob/master/solution/62_Unique_Paths/Unique_Paths.cpp) | C++ | no note |
 | 63 | [63. Unique Paths II ](https://github.com/youngyf/leetcode/blob/master/solution/63_Unique_Paths_2/Unique_Paths_2.cpp) | C++ | no note |
+| 95 | [95. Unique Binary Search Trees II](https://github.com/youngyf/leetcode/blob/master/solution/95_Unique_Binary_Search_Trees_2/Unique_Binary_Search_Trees_2.cpp) | C++ | [note](https://github.com/youngyf/leetcode/tree/master/solution/95_Unique_Binary_Search_Trees_2) | 
+| 96 | [96. Unique Binary Search Trees](https://github.com/youngyf/leetcode/blob/master/solution/96_Unique_Binary_Search_Trees/Unique_Binary_Search_Trees.cpp) | C++ | [note](https://github.com/youngyf/leetcode/tree/master/solution/96_Unique_Binary_Search_Trees) |
 | 136 | [136. Single Number ](https://github.com/youngyf/leetcode/blob/master/solution/136_Single_Number/Single_Number.cpp) | C++ | [note](http://youngyf.github.io/2016/03/06/Leetcode-Single-Number-I-II-III/) | 
 | 137 | [137. Single Number II](https://github.com/youngyf/leetcode/blob/master/solution/137_Single_Number_2/Single_Number_2.cpp) | C++ | [note](http://youngyf.github.io/2016/03/06/Leetcode-Single-Number-I-II-III/) |  
 | 260 | [260. Single Number III](https://github.com/youngyf/leetcode/blob/master/solution/260_Single_Number_3/Single_Number_3.cpp) | C++ | [note](http://youngyf.github.io/2016/03/06/Leetcode-Single-Number-I-II-III/) | 

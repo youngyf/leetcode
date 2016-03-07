@@ -21,18 +21,22 @@ for(left : dp[i-1])
 dp[n].push_back(root);
 ```
 
-虽然我们可以将dp[0]~dp[n-1]都保存下来，但是因为是树，且要用到多次，所以每次用都得拷贝一次。保存之前的结果和每次递归去算时间复杂度应该是一样的，但是可以省去递归调用的时间开销。
+虽然我们可以将dp[0]~dp[n-1]都保存下来，但是因为是树，且要用到多次，所以每次用都得拷贝一次。所以和每次递归去算时间复杂度应该是一样的，但是可以省去递归调用的时间开销。
 
 ###直接用trees[n-1]构造trees[n]
 
 在DISCUSS中看到一种方法，直接用n-1的结果构造n的结果。
 
 1.可以将前一个结果直接作为新节点的左子树:
+``` cpp
 newRoot->left = oldRoot;
+```
 
 2.将newRoot挂在oldRoot右子树上，oldRoot原本的右子树当作newRoot的左子树。
+``` cpp
 newRoot->left = oldRoot->right;
 oldRoot-right = newRoot;
+```
 
 然后oldRoot = oldRoot->right, 再重复用上述式子构造，直至oldRoot为NULL。
 
