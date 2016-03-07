@@ -6,7 +6,7 @@ public:
         // empty
         if(n == 0)
             return dp[0];
-        // intial dp[0]
+        // intial dp[0], 加入NULL为了后面左右子树组合方便
         dp[0].push_back(NULL);
         // initial dp[1]
         dp[1].push_back(new TreeNode(1));
